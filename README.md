@@ -44,3 +44,13 @@ Requirement Analysis and Modeling
 Requirement Validation.
 
 
+Types of Requirements.
+
+Examples of Functional Requirements
+
+Hotel Management Service
+Customer Service (Search + Booking)
+View Booking Service
+Final Design
+
+Non-functional Requirements
