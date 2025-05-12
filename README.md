@@ -59,7 +59,8 @@ Use Case Diagrams
 
 alx-booking-uc.png
 (https://github.com/user-attachments/assets/174b8a87-f99a-4290-88b2-a7fda3897511)
-Fdiagram%3E%3C%2Fmxfile%3E
+Fdiagram%3E%3C%2Fmxfi![alx-booking-uc](https://github.com/user-attachments/assets/28be39d6-de49-445a-8824-39feee4bf2b7)
+le%3E
 
 Acceptance Criteria.
 
