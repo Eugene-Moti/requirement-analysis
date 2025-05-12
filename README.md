@@ -34,3 +34,13 @@ Practical Insights: Learn how to define acceptance criteria and their role in en
 Structured Learning Path: Each task builds on the previous one, reinforcing knowledge and application step-by-step.
 Professional Standards: Emphasis on industry-standard practices ensures readiness for advanced-level projects and client engagements.
 This project aims to sharpen skills essential for managing and delivering robust software systems by focusing on the cornerstone of successful development: Requirement Analysis.
+
+Key Activities in Requirement Analysis.
+
+Requirement Gathering
+Requirement Elicitation
+Requirement Documentation
+Requirement Analysis and Modeling
+Requirement Validation.
+
+
