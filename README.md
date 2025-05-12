@@ -1,6 +1,7 @@
 Requirement Analysis in Software Development.
 
 What is Requirement Analysis?
+
 About the Project
 The Requirement Analysis Project focuses on crafting a comprehensive foundation for software development by documenting, analyzing, and structuring requirements. Through a series of well-defined tasks, learners will create a detailed blueprint of the requirement analysis phase for a booking management system. This project simulates a real-world development scenario, emphasizing clarity, precision, and structure in defining requirements to set the stage for successful project execution.
 
@@ -23,6 +24,9 @@ Have experience with tools like Draw.io or equivalent for creating diagrams.
 Be able to conceptualize and articulate project requirements, use cases, and acceptance criteria.
 Access the case study for reference to the booking management system.
 Key Highlights
+
+Why is Requirement Analysis Important?
+
 Real-world Application: The project emulates real-life software requirement analysis tasks to give learners hands-on experience with documentation and project planning.
 Comprehensive Documentation: Develop detailed explanations of key concepts like requirement gathering, functional vs. non-functional requirements, and use case diagrams.
 Visual Representations: Use diagrams to illustrate system actors and interactions for a clear and concise depiction of requirements.
